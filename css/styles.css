@@ -2,10 +2,13 @@
     width: 100%;
 }
 
+body {
+    background: #f0f8ff;
+}
+
 .img2 {
     width: 100%;
 }
-
 
 h1 {
     font-size: 64px;
@@ -25,16 +28,15 @@ h1 {
 
 .services {
     position: absolute;
-    top: 170%;
-    font-weight: 300;
-    font-size: 1.3em;
+    top: 0%;
+    font-size: 1em;
+    color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .p4 {
-    color: #ffffff;
+
     text-align: center;
-    width: 100%;
 
 }
 
@@ -58,15 +60,20 @@ h1 {
     font-weight: 300;
     margin-bottom: 5rem;
     font-style: normal;
+    text-align: center;
+    left: 50%;
 }
 
 .p2 {
-    text-align: center;
     color: black;
     font-size: inherit;
     line-height: 30px;
     margin-bottom: 1rem;
     margin-top: -10px;
+    text-align: center;
+    position: relative;
+    left: 48%;
+
 }
 
 .p3 {
@@ -76,6 +83,7 @@ h1 {
     line-height: 30px;
     margin-bottom: 1rem;
     margin-top: -50px;
+    padding-left: 40px;
 }
 
 .two {
@@ -85,6 +93,7 @@ h1 {
     box-sizing: inherit;
     display: block;
     top: 200%;
+    text-align: center;
 }
 
 .p5 {
@@ -94,6 +103,7 @@ h1 {
 .what-we-do-head {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #f0f8ff;
 }
 
 .centeringOption {
@@ -123,4 +133,56 @@ h1 {
 
 #devpic {
     padding-left: 20px;
-} 
+}
+
+.col-md-12 {
+    text-align: center;
+    margin-top: 35px;
+}
+
+.col-md-3 > #dark, #ontario, #orange, #wgpic{
+    float: left;
+    width: 110%;
+    padding: 5px;
+}
+
+.col-md-3 > #settings, #burned, #gday, #giraffe{
+    float: left;
+    width: 110%;
+    padding: 5%;
+}
+
+
+.headed {
+    text-align: center;
+}
+
+#contact {
+    background-image: url("/images/c_image.jpg");
+}
+
+.container-name {
+    padding: 10%;
+    width: 99%;
+    margin: 50px;
+}
+
+#name,
+#email {
+    width: 40%;
+    background-color: transparent;
+}
+
+#comment {
+    width: 80%;
+    background-color: transparent;
+}
+
+h4 {
+    text-align: center;
+    width: 80%;
+}
+
+.btn {
+    margin-left: 73%;
+}
