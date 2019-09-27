@@ -8,19 +8,17 @@ $(document).ready(function () {
     });
     $("#devpic").click(function () {
         $("#devpic").toggle(function () {
-            $(".codetag").show(function () {
-
-            });
         });
-    });
+            $(".codetag").show(function () {
+            
+        });
+            
 
     $("#prodpic").click(function () {
         $("#prodpic").toggle(function () {
-            
+        });
             (".listtag").show(function () {
-
-            });
         });
     });
 
-});
+    
