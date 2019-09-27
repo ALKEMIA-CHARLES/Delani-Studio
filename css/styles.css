@@ -213,3 +213,9 @@ h4 {
     display: flex;
     list-style: none
 }
+
+.footername {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 170px;
+}
