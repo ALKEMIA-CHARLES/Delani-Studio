@@ -113,7 +113,15 @@ h1 {
     padding-left: 13rem;
 }
 
-.descript-hide {
+#pentag {
+    display: none;
+}
+
+.codetag {
+    display: none;
+}
+
+.listtag {
     display: none;
 }
 
@@ -164,7 +172,7 @@ h1 {
 }
 
 #contact {
-    background-image: url("/images/c_image.jpg");
+    background-image: url("../images/c_image.jpg");
 }
 
 .container-name {
