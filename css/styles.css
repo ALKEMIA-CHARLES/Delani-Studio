@@ -195,6 +195,9 @@ h1 {
 #comment {
     width: 80%;
     background-color: transparent;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
 }
 
 h4 {
