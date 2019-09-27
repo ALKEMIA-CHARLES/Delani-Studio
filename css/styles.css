@@ -115,28 +115,33 @@ h1 {
 
 #pentag {
     display: none;
-}
-
-.codetag {
-    display: none;
-}
-
-.listtag {
-    display: none;
-}
-
-.devtag {
-    font-family: Arial, Helvetica, sans-serif;
-
-}
-
-.prodtag {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.designtag {
+#codetag {
+    display: none;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#listtag {
+    display: none;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#devtag {
+    display: none;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#prodtag {
+    font-family: Arial, Helvetica, sans-serif;
+    display: none;
+}
+
+#designtag {
     font-family: Arial, Helvetica, sans-serif;
     padding-left: 10px;
+    display: none;
 }
 
 #devpic {
