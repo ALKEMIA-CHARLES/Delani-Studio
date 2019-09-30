@@ -1,221 +1,236 @@
 .img1 {
-    width: 100%;
+  width: 100%;
 }
 
 body {
-    background: #f0f8ff;
+  background: #f0f8ff;
 }
 
 .img2 {
-    width: 100%;
+  width: 100%;
 }
 
 h1 {
-    font-size: 64px;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-    line-height: 85px;
-    font-weight: 400;
-    color: #ffffff;
-    padding-top: 0;
+  font-size: 64px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  line-height: 85px;
+  font-weight: 400;
+  color: #ffffff;
+  padding-top: 0;
 }
 
 .content-head {
-    position: absolute;
-    top: 10%;
-    left: 25%;
+  position: absolute;
+  top: 10%;
+  left: 25%;
 }
 
 .services {
-    position: absolute;
-    top: 0%;
-    font-size: 1em;
-    color: #ffffff;
-    font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top: 0%;
+  font-size: 1em;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .p4 {
-
-    text-align: center;
-
+  text-align: center;
 }
 
 .p1 {
-    display: block;
-    font-size: inherit;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-    line-height: 1.6;
-    margin-bottom: 1 rem;
-    color: #ffffff;
+  display: block;
+  font-size: inherit;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  line-height: 1.6;
+  margin-bottom: 1 rem;
+  color: #ffffff;
 }
 
 .h2 {
-    position: relative;
-    line-height: 30px;
-    color: black;
-    text-align: center;
-    font-size: 64px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 300;
-    margin-bottom: 5rem;
-    font-style: normal;
-    text-align: center;
-    left: 50%;
+  position: relative;
+  line-height: 30px;
+  color: black;
+  text-align: center;
+  font-size: 64px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  margin-bottom: 5rem;
+  font-style: normal;
+  text-align: center;
+  left: 50%;
 }
 
 .p2 {
-    color: black;
-    font-size: inherit;
-    line-height: 30px;
-    margin-bottom: 1rem;
-    margin-top: -10px;
-    text-align: center;
-    position: relative;
-    left: 48%;
-
+  color: black;
+  font-size: inherit;
+  line-height: 30px;
+  margin-bottom: 1rem;
+  margin-top: -10px;
+  text-align: center;
+  position: relative;
+  left: 48%;
 }
 
 .p3 {
-    text-align: center;
-    color: black;
-    font-size: inherit;
-    line-height: 30px;
-    margin-bottom: 1rem;
-    margin-top: -50px;
-    padding-left: 40px;
+  text-align: center;
+  color: black;
+  font-size: inherit;
+  line-height: 30px;
+  margin-bottom: 1rem;
+  margin-top: -50px;
+  padding-left: 40px;
 }
 
 .two {
-    color: #f0f8ff;
-    padding-left: .9375rem;
-    padding-right: .9375rem;
-    box-sizing: inherit;
-    display: block;
-    top: 200%;
-    text-align: center;
+  color: #f0f8ff;
+  padding-left: 0.9375rem;
+  padding-right: 0.9375rem;
+  box-sizing: inherit;
+  display: block;
+  top: 200%;
+  text-align: center;
 }
 
 .p5 {
-    text-align: left;
+  text-align: left;
 }
 
 .what-we-do-head {
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: #f0f8ff;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f0f8ff;
 }
 
 .centeringOption {
-    -webkit-column-count: 3;
-    -moz-column-count: 3;
-    column-count: 3;
-    padding-left: 13rem;
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  column-count: 3;
+  padding-left: 13rem;
 }
 
 #pentag {
-    display: none;
-    font-family: Arial, Helvetica, sans-serif;
+  display: none;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #codetag {
-    display: none;
-    font-family: Arial, Helvetica, sans-serif
+  display: none;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #listtag {
-    display: none;
-    font-family: Arial, Helvetica, sans-serif
+  display: none;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #devtag {
-    display: none;
-    font-family: Arial, Helvetica, sans-serif
+  display: none;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #prodtag {
-    font-family: Arial, Helvetica, sans-serif;
-    display: none;
+  font-family: Arial, Helvetica, sans-serif;
+  display: none;
 }
 
 #designtag {
-    font-family: Arial, Helvetica, sans-serif;
-    padding-left: 10px;
-    display: none;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 10px;
+  display: none;
 }
 
 #devpic {
-    padding-left: 20px;
+  padding-left: 20px;
 }
 
 .col-md-12 {
-    text-align: center;
-    margin-top: 35px;
+  text-align: center;
+  margin-top: 35px;
 }
 
-.col-md-3>#dark,
+.col-md-3 > #dark,
 #ontario,
 #orange,
 #wgpic {
-    float: left;
-    width: 110%;
-    padding: 5px;
+  float: left;
+  width: 110%;
+  padding: 5px;
 }
 
-.col-md-3>#settings,
+.col-md-3 > #settings,
 #burned,
 #gday,
 #giraffe {
-    float: left;
-    width: 110%;
-    padding: 5%;
+  float: left;
+  width: 110%;
+  padding: 5%;
 }
 
-
 .headed {
-    text-align: center;
+  text-align: center;
 }
 
 #contact {
-    background-image: url("../images/c_image.jpg");
+  background-image: url("../images/c_image.jpg");
 }
 
 .container-name {
-    padding: 10%;
-    width: 99%;
-    margin: 50px;
+  padding: 10%;
+  width: 99%;
+  margin: 50px;
 }
 
 #name,
 #email {
-    width: 40%;
-    background-color: transparent;
+  width: 40%;
+  background-color: transparent;
 }
 
 #comment {
-    width: 80%;
-    background-color: transparent;
-    margin-right: auto;
-    margin-left: auto;
-    display: block;
+  width: 80%;
+  background-color: transparent;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
 }
 
 h4 {
-    text-align: center;
-    width: 80%;
+  text-align: center;
+  width: 80%;
 }
 
 .btn {
-    margin-left: 73%;
+  margin-left: 73%;
 }
 
 .socialmedia {
-    display: flex;
-    list-style: none
+  display: flex;
+  list-style: none;
 }
 
 .footername {
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    padding-left: 170px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 170px;
+}
+#signup {
+  text-align: center;
+  background-image: url("../images/c_image.jpg");
+}
+#mce-Email {
+  background-color: transparent;
+}
+#mce-FNAME {
+  background-color: transparent;
+}
+#mce-LNAME {
+  background-color: transparent;
+}
+#mce-EMAIL {
+  background-color: transparent;
+}
+#mc-subscribe{
+background-color: blue;
 }
