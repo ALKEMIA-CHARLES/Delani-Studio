@@ -1,19 +1,18 @@
-$(document).ready(function(event) {
+$(document).ready(function (event) {
     event.preventDefault;
-    $("#despic").click(function() {
+    $("#despic").click(function () {
         $("#pentag").toggle();
     });
-    $("#devpic").click(function() {
+    $("#devpic").click(function () {
         $("#codetag").toggle();
     });
 
-    $("#prodpic").click(function() {
+    $("#prodpic").click(function () {
         $("#listtag").toggle();
     });
 
-    $("#contactid").submit(function() {
-        var user = $('#name').val();
+    $("#signup").submit(function () {
+        var user = $('#mce-FNAME').val();
         alert(user + " your insights have been well recieved, we will keep in touch");
     });
 });
-
